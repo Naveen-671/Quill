@@ -8,7 +8,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from '@/components/ui/tooltip'
-import UpgradeButton from '@/components/UpgradeButton'
+// import UpgradeButton from '@/components/UpgradeButton'
 import { PLANS } from '@/config/stripe'
 import { cn } from '@/lib/utils'
 import { getKindeServerSession } from '@kinde-oss/kinde-auth-nextjs/server'
